@@ -1,0 +1,9 @@
+/migrations/
+/__pycache__/
+
+
+/ASMP/migrations/
+/ASMP/__pycache__/
+
+/Backend/migrations/
+/Backend/__pycache__/
